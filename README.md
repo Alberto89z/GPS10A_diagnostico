@@ -1,0 +1,1 @@
+# GPS10A_diagnostico
